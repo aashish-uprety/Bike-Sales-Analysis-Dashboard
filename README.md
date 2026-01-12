@@ -1,4 +1,4 @@
-# Bike Sales Data Analysis Dashboard
+# Bike Sales Data Analysis Dashboard MS Excel Project
 
 ## Project Overview
 This project involves a comprehensive analysis of customer data for a bike shop. Using Excel, I developed an interactive dashboard to visualize how different demographics (income, age, commute distance) influence bike purchasing decisions.
